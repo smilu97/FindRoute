@@ -1,0 +1,24 @@
+HGE Started..
+
+HGE version: 1.80
+Date: 08.01.2016, 18:07:33
+
+Application: HGE Tutorial 03 - Using helper classes
+OS: Windows 6.2.9200
+Memory: 2097151K total, 2097151K free
+
+D3D Driver: nvd3dum.dll
+Description: NVIDIA GeForce GTX 660  
+Version: 10.18.13.5362
+Can't find appropriate full screen video mode
+Mode: 1600 x 1000 x UNKNOWN
+
+Sound Device: 24MP55-4(NVIDIA High Definition Audio)
+Sample rate: 44100
+
+Init done.
+
+Can't load resource: background.png
+
+Finishing..
+The End.
